@@ -1,6 +1,11 @@
 # Akari 🐱‍👤
 C++ 2D Platform game for 2 year university using proffesors custom library
-## <p align="left"> ⏳ The score system is based on time so here is a playthrough speed run: [Youtube Link](https://youtu.be/eGkFWKUWZmA).</p>
+## <p align="left"> ⏳ The score system is based on time so here is a playthrough speed run:</p>
+
+
+https://github.com/AlexGrigoratos/Akari/assets/159578904/8350abd2-0155-42ee-9fd8-5dd03a0361e1
+##  
+
 
 
 ![startmenu2](https://github.com/AlexGrigoratos/Akari/assets/159578904/e471cf94-dbd1-45a1-bec9-95f8f9190322)
