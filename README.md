@@ -1,11 +1,11 @@
-### Akari
-C++ 2D Platform game for 2 year university using proffesors custom library
-### <p align="left"> ◻️ ⏳ The score system is based on time so here is a playthrough speed run: [Youtube Link](https://youtu.be/JNzpA3nqwCc).</p>
+# Akari 🐱‍👤
+C++ 2D Platform game for 2nd year of university using proffesor's custom library
+## <p align="left"> ◻️ ⏳ The score system is based on time so here is a playthrough speed run: [Youtube Link](https://youtu.be/JNzpA3nqwCc).</p>
 
 
 ![startmenu2](https://github.com/AlexGrigoratos/Akari/assets/159578904/e471cf94-dbd1-45a1-bec9-95f8f9190322)
 
-### <p align="center"> ◻️ 🐱‍👤 Akari, a skilled ninja on a quest to retrieve the legendary kunais![New Project](https://github.com/AlexGrigoratos/Akari/assets/159578904/178ea22d-c915-4eec-96d0-81329dc7e0a3)hidden within a mysterious abandoned laboratory.</p>
+### <p align="center"> ◻️ 🐱‍💻 Akari, a skilled ninja on a quest to retrieve the legendary kunais![New Project](https://github.com/AlexGrigoratos/Akari/assets/159578904/178ea22d-c915-4eec-96d0-81329dc7e0a3)hidden within a mysterious abandoned laboratory.</p>
 
 ![Capture](https://github.com/AlexGrigoratos/Akari/assets/159578904/30ccad51-2d7c-45aa-9865-299784273a7c)
 
