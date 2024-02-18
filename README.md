@@ -1,6 +1,6 @@
 ### Akari
 C++ 2D Platform game for 2 year university using proffesors custom library
-### <p align="left"> ◻️ ⏳ The score system is based on time so here is a playthrough speed run: .</p>
+### <p align="left"> ◻️ ⏳ The score system is based on time so here is a playthrough speed run: [Youtube Link](https://youtu.be/JNzpA3nqwCc).</p>
 
 
 ![startmenu2](https://github.com/AlexGrigoratos/Akari/assets/159578904/e471cf94-dbd1-45a1-bec9-95f8f9190322)
@@ -22,6 +22,6 @@ C++ 2D Platform game for 2 year university using proffesors custom library
 ![Captu999re](https://github.com/AlexGrigoratos/Akari/assets/159578904/a50c65c9-3308-429f-85bd-327eeac07be1)![Capt777ure](https://github.com/AlexGrigoratos/Akari/assets/159578904/9b0334ad-8c44-486f-825d-f68d758a8507)
 
 # Instructions to play the game:
-1️⃣  Download the release from https://github.com/AlexGrigoratos/Akari/releases/tag/2dNinjaGame. <br /> 
-2️⃣  Don't worry its not a virus . <br />
+1️⃣  Download the release from [Release](https://github.com/AlexGrigoratos/Akari/releases/tag/2dNinjaGame). <br /> 
+2️⃣  Don't worry its not a virus [VirusScan](https://www.virustotal.com/gui/file/2484745aeaa4821d004a8378e17cbf75fc4e7b9369d1eeeb0dd567c6987934aa?nocache=1). <br />
 3️⃣  Run Akari.exe. <br />
