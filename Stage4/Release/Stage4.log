@@ -1,0 +1,15 @@
+﻿  gameobject.cpp
+  gamestate.cpp
+  level.cpp
+C:\Users\Alex\Desktop\Finish\Stage4\level.h(7,10): error C1083: Cannot open include file: 'sgg/graphics.h': No such file or directory
+  (compiling source file 'gamestate.cpp')
+  
+C:\Users\Alex\Desktop\Finish\Stage4\level.h(7,10): error C1083: Cannot open include file: 'sgg/graphics.h': No such file or directory
+  (compiling source file 'level.cpp')
+  
+  main.cpp
+C:\Users\Alex\Desktop\Finish\Stage4\main.cpp(1,10): error C1083: Cannot open include file: 'sgg/graphics.h': No such file or directory
+  player.cpp
+C:\Users\Alex\Desktop\Finish\Stage4\player.h(4,10): error C1083: Cannot open include file: 'sgg/graphics.h': No such file or directory
+  (compiling source file 'player.cpp')
+  
